@@ -1,0 +1,1 @@
+Tourist tarpaulin strap retainer by MikleVV on Thingiverse: https://www.thingiverse.com/thing:6735837
