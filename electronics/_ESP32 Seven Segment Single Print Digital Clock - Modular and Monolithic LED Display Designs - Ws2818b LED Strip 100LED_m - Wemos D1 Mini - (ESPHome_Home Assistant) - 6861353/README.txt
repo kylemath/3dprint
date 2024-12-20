@@ -1,0 +1,1 @@
+ ESP32 Seven Segment Single Print Digital Clock - Modular and Monolithic LED Display Designs - Ws2818b LED Strip 100LED/m - Wemos D1 Mini - (ESPHome/Home Assistant) by KyMath on Thingiverse: https://www.thingiverse.com/thing:6861353
